@@ -3,7 +3,7 @@
         justify-content: center;
         list-style: none;
         margin: 0;
-        padding: 0;
+        padding: 10px;
        font-family: "Quicksand", sans-serif;
       }
 
@@ -15,22 +15,20 @@
         padding: 0em 1em 3em;
         font-size: 20px;
       }
-      
-@media screen and (min-width: 60em) {
+
 header {
-  display: flex;
   text-align: center;
   flex-direction: column;
-  align-items: column;
   justify-content: center;
   font-size: 25px;
+  align-items: center;
 }
 header ul {
 display: flex;
+justify-content: center;
 list-style: none;
 margin: -20px;
 padding: 0;
-}
 }
 
 .center-image {
