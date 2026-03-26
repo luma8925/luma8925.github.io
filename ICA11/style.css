@@ -1,0 +1,59 @@
+      header ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    font-family: "Quicksand", sans-serif;
+      }
+
+      header a {
+        color: black;
+        text-decoration: none;
+        display: block;
+        padding: 0.5em 1em;
+        font-size: 20px;
+      }
+
+header {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+.center-image {
+display: block;
+margin: 20px auto;
+width: 75%;
+height: auto;
+}
+
+h2 {
+  margin-top: auto;
+  font-size: 45px;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+text-align: center;
+font-family: "Quicksand", sans-serif;
+}
+
+.description {
+text-align: center;
+}
+
