@@ -1,10 +1,10 @@
 let score = 0;
 let duckX;
 let duckY;
-let duckSpeed = 10;
+let duckSpeed = 7;
 let deerX;
 let deerY;
-let deerSpeed = 15;
+let deerSpeed = 10;
 let backgroundImage;
 let deerButton;
 let duckButton;
