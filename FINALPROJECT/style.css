@@ -1,0 +1,14 @@
+body{
+    background: url(background.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: url("target.png"), auto;
+}
+p {
+  font-family: 'Press Start 2P', cursive;
+}
+#score {
+  font-size: 30px;
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+}
