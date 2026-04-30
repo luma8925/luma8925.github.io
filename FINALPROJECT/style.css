@@ -1,14 +1,19 @@
 body{
-    background: url(background.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
     cursor: url("target.png"), auto;
+ margin: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
 }
-p {
-  font-family: 'Press Start 2P', cursive;
-}
-#score {
-  font-size: 30px;
-  font-family: 'Press Start 2P', cursive;
+
+Button {
+  position: absolute;
+  top: 90%;
+  left: 45%;
+  padding: 10px;
+  font-family: 'Press Start 2P';
+  background: black;
   color: white;
 }
